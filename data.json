@@ -1,0 +1,41 @@
+{
+    "cards": [
+    {
+        "image": "./images/Earl Campbell 1979.jpg",
+        "description": "1979 Topps Earl Campbell rookie card. Showcases the Hall of Fame running back in his iconic Houston Oilers uniform. A standout piece from the late '70s football card era. Perfect for vintage collectors."
+    },
+    {
+        "image": "./images/Topps Tom Brady 2015.jpg",
+        "description": "This card captures the legendary quarterback in his prime with the New England Patriots. A standout card for collectors and admirers of Brady."
+    },
+    {
+       "image": "./images/Topps Calvin Johnson 2007.jpg",
+       "description": "This 2007 Topps Chrome card features Calvin Johnson, a player for the Detroit Lions. The card is a refractor parallel/variety."
+    },
+    {
+        "image": "./images/Stephen_Curry.jpg",
+        "description": "Stephen (Steph) Curry is the athlete featured on this card. He's an idol for many young hoopers around the world, with his lethal shooting skills from anywhere on the court."
+    },
+    {
+        "image":"./images/Trae_Young.jpg",
+        "description": "Another rising superstar of the league, Trae Young, belongs to Atlanta Hawks. He's a multiple-time all-star, looking to get the Hawks out of the East, and into the Finals."
+    },
+    {
+        "image":"./images/Luke.jpg",
+        "description:": "Luka Doncic, the international superstars from Slovenia, is the Dallas Maverick featured on this card. Many feel he has a chance to become one of the greatest players to ever live."
+    },
+    {
+        "image": "./images/Ken_Griffey.jpg",
+        "description": "Ken Griffey Jr. is a former Major League Baseball player renowned for his iconic swing and defensive prowess in center field. He enjoyed a stellar career with the Seattle Mariners and Cincinnati Reds and is widely regarded as one of the greatest baseball players of all time."
+    },
+    {
+        "image": "./images/Mickey_Mantle.jpg",
+        "description":"The Mickey Mantle baseball card, specifically the 1952 Topps card, is one of the most sought-after and valuable trading cards in the hobby. Its scarcity and association with the legendary New York Yankees outfielder make it an iconic collector's item, often fetching high prices at auctions."
+    },
+    {
+        "image":"./images/Willie_Mays.jpg",
+        "description":"Willie Mays is a baseball icon renowned for his extraordinary combination of power, speed, and fielding prowess. His remarkable career, primarily with the New York and San Francisco Giants, solidified his status as one of the all-time greats in the history of baseball."
+    }
+
+    ]
+}
