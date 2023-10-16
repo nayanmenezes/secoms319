@@ -1,41 +1,118 @@
 {
-    "cards": [
+    "nfl":[
     {
-        "image": "./images/Earl Campbell 1979.jpg",
+        "src": "./images/Bowman Tom Landry 1951.jpg",
+        "alt": "Tom Landry 1951",
+        "description": "Features Tom Landry, a legendary player for the New York Giants, manuyfactured by Bowman and is part of the 1951 Bowman set."
+
+    },
+    {
+        "src": "./images/Earl Campbell 1979.jpg",
+        "alt": "Earl Campbell 1979",
         "description": "1979 Topps Earl Campbell rookie card. Showcases the Hall of Fame running back in his iconic Houston Oilers uniform. A standout piece from the late '70s football card era. Perfect for vintage collectors."
+
     },
     {
-        "image": "./images/Topps Tom Brady 2015.jpg",
+        "src": "./images/Panini Chronicles Brock Purdy 2022.jpg",
+        "alt": "Brock Purdy 2022",
+        "description": "Highlights Brock Purdy a young quarterback playing on the 49ers. A unique addition to any collector collecting cards of the next generation of great football players."
+
+    },
+    {
+        "src": "./images/Panini Instant Anthony Richardson 2023.jpg",
+        "alt": "Anthony Richardson 2023",
+        "description": "Player for the Indianapolis Colts, Richardson is a solid quarterback who proved his worth and proves to be a timeless card to own.Player for the Indianapolis Colts, Richardson is a solid quarterback who proved his worth and proves to be a timeless card to own."
+
+    },
+    {
+        "src": "./images/Topps Calvin Johnson 2007.jpg",
+        "alt": "Calvin Johnson 2007",
+        "description": "This 2007 Topps Chrome card features Calvin Johnson, a player for the Detroit Lions. The card is a refractor parallel/variety."
+
+    },
+    {
+        "src": "./images/Topps Gallery Zach Thomas 2002.jpg",
+        "alt": "Zach Thomas 2002",
+        "description": "Features the iconic linebacker on the Miami Dolphins in his prime. This card celebrates Thomas's tenacity and leadership on the field."
+
+    },
+    {
+        "src": "./images/Topps Tom Brady 2015.jpg",
+        "alt": "Tom Brady 2015",
         "description": "This card captures the legendary quarterback in his prime with the New England Patriots. A standout card for collectors and admirers of Brady."
+
     },
     {
-       "image": "./images/Topps Calvin Johnson 2007.jpg",
-       "description": "This 2007 Topps Chrome card features Calvin Johnson, a player for the Detroit Lions. The card is a refractor parallel/variety."
+        "src": "./images/Topps Tramon Williams 2011.jpg",
+        "alt": "Tramon Williams 2011",
+        "description": "Features cornerback star Tramon Williams during his standout years with the Green Bay Packers. This card captures Williams defensive prowess and his role in the Packers success."
+
     },
     {
-        "image": "./images/Stephen_Curry.jpg",
-        "description": "Stephen (Steph) Curry is the athlete featured on this card. He's an idol for many young hoopers around the world, with his lethal shooting skills from anywhere on the court."
-    },
-    {
-        "image":"./images/Trae_Young.jpg",
-        "description": "Another rising superstar of the league, Trae Young, belongs to Atlanta Hawks. He's a multiple-time all-star, looking to get the Hawks out of the East, and into the Finals."
-    },
-    {
-        "image":"./images/Luke.jpg",
-        "description:": "Luka Doncic, the international superstars from Slovenia, is the Dallas Maverick featured on this card. Many feel he has a chance to become one of the greatest players to ever live."
-    },
-    {
-        "image": "./images/Ken_Griffey.jpg",
-        "description": "Ken Griffey Jr. is a former Major League Baseball player renowned for his iconic swing and defensive prowess in center field. He enjoyed a stellar career with the Seattle Mariners and Cincinnati Reds and is widely regarded as one of the greatest baseball players of all time."
-    },
-    {
-        "image": "./images/Mickey_Mantle.jpg",
-        "description":"The Mickey Mantle baseball card, specifically the 1952 Topps card, is one of the most sought-after and valuable trading cards in the hobby. Its scarcity and association with the legendary New York Yankees outfielder make it an iconic collector's item, often fetching high prices at auctions."
-    },
-    {
-        "image":"./images/Willie_Mays.jpg",
-        "description":"Willie Mays is a baseball icon renowned for his extraordinary combination of power, speed, and fielding prowess. His remarkable career, primarily with the New York and San Francisco Giants, solidified his status as one of the all-time greats in the history of baseball."
+        "src": "./images/Topps Russell Wilson 2012.jpg",
+        "alt": "Russell Wilson 2012",
+        "description": "A must-have collectible showcasing the early days of this NFL superstar quarterback on the Seattle Seahawks."
+
     }
+
+    ],
+
+    "nba":[
+    {
+        "src": "./images/Kobe_Bryant.jpg",
+        "alt": "Kobe Bryant",
+        "description": "This rare Topps Kobe Bryant card is highly valued, as Kobe is one of the most well recognized athletes all around the world, with multiple MVP's and Championships to his name."
+
+    },
+    {
+        "src": "./images/Larry.jpg",
+        "alt": "Larry Bird",
+        "description": "Larry Bird, an icon of the 1980's, is one of the most well rounded nba players of all time, and this NBA Hoops card would make a great addition to any collection."
+
+    },
+    {
+        "src": "./images/Kareem.jpg",
+        "alt": "Kareem Abdul-Jabbar",
+        "description": "Enjoy this limited edition Kareem Abdul-Jabbar card! Kareem is the second leading scorer of all time, and would be a great additon to your card collection."
+
+    },
+    {
+        "src": "./images/Kawhi.jpg",
+        "alt": "Kawhi Leonard",
+        "description": "This card by NBA Hoops sports Kawhi Leonard, a 5-time All-Star, featuring Kawhi on his original team."
+
+    },
+    {
+        "src": "./images/Michael_Jordan.jpg",
+        "alt": "Michael Jordan",
+        "description": "Michael Jordan, widely considered the greatest basketball player to ever live, is featured on this card, representing one of his many legendary seasons on the Chicago Bulls.Michael Jordan, widely considered the greatest basketball player to ever live, is featured on this card, representing one of his many legendary seasons on the Chicago Bulls."
+
+    },
+    {
+        "src": "./images/Trae_Young.jpg",
+        "alt": "Trae Young",
+        "description": "Another rising superstar of the league, Trae Young, belongs to Atlanta Hawks. He's a multiple-time all-star, looking to get the Hawks out of the East, and into the Finals."
+
+    },
+    {
+        "src": "./images/Lebron.jpg",
+        "alt": "Lebron James",
+        "description": "Lebron James is one of the greatest players of all time, and this card features a picture from the night Lebron James became the player with the most amount of career points in NBA History."
+
+    },
+    {
+        "src": "./images/Luka.jpg",
+        "alt": "Luka Doncic",
+        "description": "Luka Doncic, the international superstars from Slovenia, is the Dallas Maverick featured on this card. Many feel he has a chance to become one of the greatest players to ever live."
+
+    },
+    {
+        "src": "./images/Stephen_Curry.jpg",
+        "alt": "Stephen Curry",
+        "description": "Stephen (Steph) Curry is the athlete featured on this card. He's an idol for many young hoopers around the world, with his lethal shooting skills from anywhere on the court."
+
+    }
+
 
     ]
 }
