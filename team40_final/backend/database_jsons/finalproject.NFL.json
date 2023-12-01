@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6560f993a9c7242dd9333597"
+  },
+  "src": "./images/Bowman.jpg",
+  "alt": "Tom Landry 1951",
+  "description": "Features Tom Landry, a legendary player for the New York Giants, manufactured by Bowman and is part of the 1951 Bowman set.",
+  "buyPrice": "$45.99",
+  "bidPrice": "$19.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd9333598"
+  },
+  "src": "./images/Earl.jpg",
+  "alt": "Earl Campbell 1979",
+  "description": "1979 Topps Earl Campbell rookie card. Showcases the Hall of Fame running back in his iconic Houston Oilers uniform. A standout piece from the late '70s football card era. Perfect for vintage collectors.",
+  "buyPrice": "$67.99",
+  "bidPrice": "$35.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd9333599"
+  },
+  "src": "./images/Brock.jpg",
+  "alt": "Brock Purdy 2022",
+  "description": "Highlights Brock Purdy a young quarterback playing on the 49ers. A unique addition to any collector collecting cards of the next generation of great football players.",
+  "buyPrice": "$12.99",
+  "bidPrice": "$25.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd933359a"
+  },
+  "src": "./images/Richardson.jpg",
+  "alt": "Anthony Richardson 2023",
+  "description": "Player for the Indianapolis Colts, Richardson is a solid quarterback who proved his worth and proves to be a timeless card to own.Player for the Indianapolis Colts, Richardson is a solid quarterback who proved his worth and proves to be a timeless card to own.",
+  "buyPrice": "$17.99",
+  "bidPrice": "$32.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd933359b"
+  },
+  "src": "./images/Calvin.jpg",
+  "alt": "Calvin Johnson 2007",
+  "description": "This 2007 Topps Chrome card features Calvin Johnson, a player for the Detroit Lions. The card is a refractor parallel/variety.",
+  "buyPrice": "$88.99",
+  "bidPrice": "$52.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd933359c"
+  },
+  "src": "./images/Zach.jpg",
+  "alt": "Zach Thomas 2002",
+  "description": "Features the iconic linebacker on the Miami Dolphins in his prime. This card celebrates Thomas's tenacity and leadership on the field.",
+  "buyPrice": "$45.99",
+  "bidPrice": "$45.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd933359d"
+  },
+  "src": "./images/Brady.jpg",
+  "alt": "Tom Brady 2015",
+  "description": "This card captures the legendary quarterback in his prime with the New England Patriots. A standout card for collectors and admirers of Brady.",
+  "buyPrice": "$45.99",
+  "bidPrice": "$45.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd933359e"
+  },
+  "src": "./images/Tramon.jpg",
+  "alt": "Tramon Williams 2011",
+  "description": "Features cornerback star Tramon Williams during his standout years with the Green Bay Packers. This card captures Williams defensive prowess and his role in the Packers success.",
+  "buyPrice": "$5.99",
+  "bidPrice": "$1.99"
+},
+{
+  "_id": {
+    "$oid": "6560f993a9c7242dd933359f"
+  },
+  "src": "./images/Russell.jpg",
+  "alt": "Russell Wilson 2012",
+  "description": "A must-have collectible showcasing the early days of this NFL superstar quarterback on the Seattle Seahawks.",
+  "buyPrice": "$78.99",
+  "bidPrice": "$41.99"
+}]
